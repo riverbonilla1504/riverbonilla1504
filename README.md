@@ -1,12 +1,33 @@
-- 👋 Hi, I’m @riverbonilla1504
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Hi there! 👋
 
-<!---
-riverbonilla1504/riverbonilla1504 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub profile! I'm a Software Engineering student in my fourth semester, passionate about backend development, embedded systems, and game development. I enjoy working with NestJS, React, and Unity, as well as exploring algorithms, data structures, and software design patterns.
+
+🚀 Technologies & Tools
+
+Backend: NestJS, Django, MySQL, PostgreSQL
+
+Frontend: React, Vite, Tailwind, Redux
+
+Embedded Systems: ESP32, C++
+
+Game Development: Unity (C#), retro-style graphics (PS1 aesthetic)
+
+Other: Python, Java, Git, Docker
+
+🔥 Current Projects
+
+Elevator Control System: Optimizing request prioritization using graph-based algorithms for an ESP32-controlled elevator.
+
+Gamified Addiction Study: Analyzing how reward systems affect human addiction through a point-based system.
+
+Microservices with Django: Developing tareas and usuarios services using Django and MySQL.
+
+Unity Game: Creating a retro-style game with Source-like movement mechanics.
+
+📫 Get in Touch
+
+Email: your-email@example.com
+
+LinkedIn: your-profile
+
+Thanks for stopping by! 🚀
