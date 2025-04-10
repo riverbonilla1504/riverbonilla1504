@@ -24,10 +24,4 @@ Microservices with Django: Developing tareas and usuarios services using Django 
 
 Unity Game: Creating a retro-style game with Source-like movement mechanics.
 
-📫 Get in Touch
 
-Email: your-email@example.com
-
-LinkedIn: your-profile
-
-Thanks for stopping by! 🚀
